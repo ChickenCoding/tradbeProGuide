@@ -1,0 +1,20 @@
+{
+  "name": "beProGuide",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-markdown": "~0.4.0",
+    "grunt-contrib-imagemin": "~0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chickencoding",
+  "license": "GPLv3"
+}
