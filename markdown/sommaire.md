@@ -5,9 +5,9 @@ _Nom du guide original : [How to be a Pro at Dota : Taking your Game to Higher L
 
 _Traduction française : [ChickEnSkill](http://www.twitter.com/ChikenSkill)_
 
-_Github repo :_
+_Github repo : [beProGuide](http://www.github.com/ChickenCoding/tradbeProGuide)_
 
-_License :_ 
+_License : copyright [playdota.com](http://www.playdota.com), All rights reserved_ 
 
 
 
