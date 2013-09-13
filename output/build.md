@@ -5,9 +5,9 @@ _Nom du guide original : [How to be a Pro at Dota : Taking your Game to Higher L
 
 _Traduction française : [ChickEnSkill](http://www.twitter.com/ChikenSkill)_
 
-_Github repo :_
+_Github repo : [beProGuide](http://www.github.com/ChickenCoding/tradbeProGuide)_
 
-_Licence (translation) :_ 
+_License : copyright [playdota.com](http://www.playdota.com), All rights reserved_ 
 
 
 
@@ -225,29 +225,29 @@ J'ai appris de celles-ci.
 
 ### 4.3 Avoir assez de temps libre pour masteriser le héro désiré ###
 
-Ne vous-êtes pas déjà demandé pourquoi votre jeu n'est pas aussi bon que vos autre jeux de différents héros.
+Ne vous-êtes pas déjà demandé pourquoi votre jeu n'est pas aussi bon que le jeu des autres héros.
 Améliorer votre jeu provient également de comment utiliser votre héro. C'est pourquoi autant de guides sont répandus sur le net. 
 
-Jouer un héro pendant 2 ou 3 jours vous permettra d'être confortable avec le héro que vous désirez masterisern vous expérimenterez plusieurs 
-actions qui pourrait arriver dans de vraies parties, vous y serez préparés, et vous connaîtrez différentes stratégies qui vous assureront la réussite
+Jouer un héro pendant 2 ou 3 jours vous permettra d'être comfortable avec le héro que vous désirez masteriser; vous expérimenterez plusieurs 
+actions qui pourront arriver dans de vraies parties, vous y serez préparés, et vous connaîtrez différentes stratégies qui vous assureront la réussite
 dans l'utilisation de ce héro.
 
-J'ai joué Chen pas pendant 3 jours mais 3 mois. Ceci parce que j'étais un débutant à ce moment-là (ma première année de DotA) qui est habiitué à jouer carry.
+J'ai joué Chen pas pendant 3 jours mais 3 mois. Ceci parce que j'étais un débutant à ce moment-là (ma première année de DotA) et j'étais habitué à jouer carry.
 Je découvris que Chen était le héro le plus joué par les équipes pros à ce moment-là. Je ne voulais pas demander cet pratique ennuyante à aucun de mes 
 coéquipiers donc j'ai changé de rôle pour support et pratiqué Chen pendant des mois. 
 Dès lors qu'ils voyaient Chen, ils pensaient immédiatement à moi. Les bon joueurs de Chen se moquaient de mon micro-management des creeps.
-Après 3 mois pratiques, mon équipe évolua de débutante à équipe redoutée en tournoi. Chen m'a donné beaucoup de récompenses en championnat. Vous n'avez pas besoin de 
+Après 3 mois de pratique, mon équipe évolua de débutante à équipe redoutée en tournoi. Chen m'a donné beaucoup de récompenses en championnat. Vous n'avez pas besoin de 
 3 mois car je devine que vous avez déjà plus d'expérience que moi dans le jeu compétitif que je n'en avais à l'époque.
 
 ### 4.4 Toujours jouer contre de meilleurs joueurs ###
 
-Vous allez perdre. Et alors? si vous n'êtes pas assez fort pour gérer les critiques, vous êtes trop faibles pour être glorifié. Jouer contre de meilleurs joueurs vous 
-fera réaliser vos failles et les choses qui doivent être ajustées dans votre jeu. Vous serez aussi tenté de surpasser son niveau de jeu, si vous êtes assez optimistes
-( et vous avez besoin de l'être).
+Vous allez perdre. Et alors? si vous n'êtes pas assez fort pour gérer les critiques, vous êtes trop faible pour être glorifié. Jouer contre de meilleurs joueurs vous 
+fera réaliser vos failles et les choses qui doivent être ajustées dans votre jeu. Vous serez aussi tenté de surpasser son niveau de jeu, si vous êtes assez optimiste
+(et vous avez besoin de l'être).
 
-Nous avons tous déjà perdu. J'ai même offert des parties gratuites pour que de bonnes équipes jouent contre nous. J'ai perdu de l'argent et j'en perds encore 
-mais je les ai toujours invitées à encore jouer contre nous. 
-Les émotions ne sont pas heureuse quand nous perdons mais ce qui arrive est que nous nous améliorons. Nous regardions les replays de parties jouées contre eux. 
+Nous avons tous déjà perdu. J'ai même offert des parties gratuites pour que de bonnes équipes jouent contre nous. J'ai perdu de l'argent et j'en perd encore 
+mais je les ai toujours invitées à jouer contre nous. 
+Les émotions ne sont pas joyeuses quand nous perdons mais ce qui arrive est que nous nous améliorons. Nous regardions les replays de parties jouées contre eux. 
 Nous avons découvert leurs stratégies et nous en avons créer de meilleurs. 
 Le temps vînt où personne ne pût nous battre ici dans notre ville même l'équipe que nous avions payés pour jouer.
 C'est comme un business. Investissement et travail dur d'abord, puis la réussite suivra.
@@ -256,7 +256,7 @@ C'est comme un business. Investissement et travail dur d'abord, puis la réussit
 
 Fermez les yeux. Pensez à ce que vous voulez achever (que ce soit DotA ou pas... _c'est efficace_)... Puis si vous avez déjà pensé à ce que vous voudriez être, 
 imaginez que vous êtes cette personne maintenant. 
-Faîtes de votre une imagination une réalité avec tous les éléments de l'arrière-plan. 
+Faîtes de votre imagination une réalité avec tous les éléments de l'arrière-plan. 
 Relaxez-vous et imaginez que vous êtes la personne que vous voudriez être. Croyez-y. 
 Après avoir imaginer vos buts, ouvrez vos yeux et croyez que cela est vraiment arrivé. C'est une part de votre éxpérience car vous êtes déjà la réussite que vous voudriez
 être maintenant.
