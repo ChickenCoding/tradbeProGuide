@@ -26,13 +26,32 @@ module.exports = (grunt) ->
         files :
           "build/index.html" : ["output/build.md"]
 
-      html :
-        files :
-          "output/index.html" : ["output/build.md"]
+    html :
+      files :
+        "output/index.html" : ["output/build.md"]
 
-      readme :
+    readme :
+      files :
+        "readme.html" : ["README.md"]
+
+    coffee :
+      default :
+        options :
+          bare : true
+        files :[
+          expand : true
+          flatten : true
+          src : ["*.coffee"]
+          cwd : "script/cs"
+          dest :"script/js/"
+          ext : ".js"
+        ]
+
+    uglify :
+      default :
         files :
-          "readme.html" : ["README.md"]
+          "build/js/main.js" : ["script/js/*.js"]
+
 
 
 
@@ -41,6 +60,10 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks "grunt-contrib-concat"
   grunt.loadNpmTasks "grunt-markdown"
   grunt.loadNpmTasks "grunt-contrib-imagemin"
+  grunt.loadNpmTasks "grunt-contrib-coffee"
+  grunt.loadNpmTasks "grunt-contrib-uglify"
+
+
 
   # registerer
   grunt.registerTask 'default', 'concat:layout'
@@ -49,6 +72,9 @@ module.exports = (grunt) ->
     'concat:layout'
     'imagemin'
     'markdown:layout'
+    'coffee:default'
+    'uglify'
+
   ]
 
   grunt.registerTask 'concatOnly', 'concat:layout'
