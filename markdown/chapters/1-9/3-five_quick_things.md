@@ -4,13 +4,13 @@
 ## Chapitre 3. Posséder ces 5 qualités ##
 
 _Vous êtes-vous deja demandé quels sont les plus-values des joueurs top niveau sur vous? 
-Ce n'est pas seulement l'expérience et le travail dur. Vous pouvez jouer pendant 10 ans et
-ne pas être aussi bon qu'eux si vous ne vous focalisez pas sur les bonnes habiletés à developper.
+Ce n'est pas seulement l'expérience et la sueur. Vous pouvez jouer pendant 10 ans et
+ne pas être aussi bon qu'eux si vous ne vous focalisez pas sur les bonnes aptitudes à developper.
 Voici les choses à considérer si vous voulez jouer comme les Pros._
 
 ### 3.1 Calculs mentaux rapides ###
 
-Cette aptitude est très importante pour 3 choses : 
+Cette aptitude est très importante pour 3 raisons : 
 
   + Coût de Mana
 
@@ -18,7 +18,7 @@ Cette aptitude est très importante pour 3 choses :
 
   + Estimer les temps de rechargement
 
-Etre rapide en calcul vous donne beaucoup d'avantages et de sûreté. Savoir si votre réserve de mana
+Etre rapide en calcul mental vous donne beaucoup d'avantages et de sûreté. Savoir si votre réserve de mana
 sera assez grande pour éxécuter cette combinaison vous évitera des problèmes du genre : "Merde! Je suis 
 à cours de Mana !", puis mourrir.
 Assurez-vous d'être rapide dans vos calculs car un seul moment d'égarement peut causer la perte de la 
@@ -32,7 +32,7 @@ leurs sorts ne sont pas disponibles. Faire plus de calculs que vos opposants vou
 
 ### 3.2 Main rapide ###
 
-Cette aptitude est très importante pour 3 choses :
+Cette aptitude est très importante pour 3 raisons :
 
   + L'annulation de l'animation
 
@@ -45,7 +45,7 @@ prolongées. Vous devriez les annuler pour ne pas perdre de temps. L'annulation 
 dans l'harrass du héro. Vous pouvez ou avancer ou reculer au lieu d'attendre l'arrêt de l'animation. 
 Grâce à cela, vous pouvez plus harrass ou éviter plus de dégâts.
 Les combinaisons requièrent de la synchronisation et ne devraient pas être interrompues par des doigts lents.
-La micro est le terme utilisée pour définir plus d'unités ce qui demande aussi une main rapide.
+La micro est le terme utilisée pour définir la gestion de pluseurs unités ce qui demande aussi une main rapide.
 Vous pouvez chercher pour un petit icône de héro plus rapidement pour être capable de l'attaquer et ainsi ne pas le 
 laisser s'échapper juste parcequ'il n'était pas cliquable.
 
@@ -67,7 +67,7 @@ Les 4 étapes d'un plan réfléchi :
 
 ### 3.4 Vue rapide ###
 
-Cette aptitude est très importante pour 5 choses : 
+Cette aptitude est très importante pour 5 raisons : 
 
   + Conscience de la map
 
@@ -99,7 +99,7 @@ Cette aptitude est très importante pour 5 choses :
 
   + Contrer les attaques
 
-Dota est un jeu d'action/réaction. Vous voyez la situation, puis vous agissez. 
+Dota est un jeu d'action/réaction. Vous anlysez la situation, puis vous agissez. 
 Gagner ou perdre dépend grandement de combien de bonnes ou mauvaises décisions sont faites. Savoir d'une seul coup d'oeil quelles sont les 
-meilleures réactions et les éxécuter parfaitement fera de vous un joueur de bon niveau effroyable.
+meilleures réactions et les éxécuter parfaitement fera de vous un joueur de bon niveau.
 

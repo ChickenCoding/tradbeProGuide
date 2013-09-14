@@ -53,7 +53,7 @@ caractère de personnages d'Anime qui pourraient vous inspirer dans votre jeu Do
   5. __Invulnérable__
 
     Peu importe ce qui arrive, les protaginistes ne mourront pas, ils ne seront que blesser s'ils perdent fâce à un opposant trop puissant 
-    mais ils ne mourront pas. A la fin de la série ils seront les gagnants. C'est chose évidente dans les Anime mais ca m'a fait beaucoup d'effets.
+    mais ils ne mourront pas. A la fin de la série ils seront les gagnants. C'est chose évidente dans les Anime mais ca m'a fait beaucoup réfléchir.
     Cela m'a inspiré à ne jamais abandonner. Peu importe le nombre de fois ou j'étais dans une mauvaise passe, c'est le fait d'être le meilleur
     si je travail dur pour cela.
 

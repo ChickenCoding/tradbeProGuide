@@ -24,13 +24,13 @@ Pratiquer comme si vous étiez le plus mauvais des joueurs, vous donnera la sens
 leçon que vous pouvez apprendre d'un replay ou de vos exercices.
 Cela ne vous rendra pas fatigué car vous deviendrez intérréssé dans ce que vous faîtes.
 
-### 2.2 Exécutez comme si vous le meilleur ! ###
+### 2.2 Exécutez comme si vous êtiez le meilleur ! ###
 
 Dans la partie, vous devriez être confiant. Vous ne pouvez vous permettre d'avoir peur ou d'avoir des pensées négatives.
-De vos précédents entraînements, vous avez beaucoup appris et vous êtes maintenant confiant dans vos armes secrètes.
+De vos précédents entraînements, vous avez beaucoup appris et vous êtes maintenant confiant grâce à armes secrètes.
 
-Kobe Bryant, même s'il est ocnsidéré comme une superstar, s'entraîne beaucoup. Certains disent qu'il se "torture lui-même". 
-Puis, quand il joue, vous pouvez voir combien confiant il est et les gens le considèrent très sûr de lui.
+Kobe Bryant, même s'il est ocnsidéré comme une superstar, s'entraîne beaucoup. Certains disent qu'il se "torture à la tâche". 
+Puis, quand il joue, vous remarquez son assurance, les gens le considèrent très sûr de lui.
 
 _Quand vous pratiquez, soyez très pointilleux. Observez et analysez tout. Essayez d'acquérir autant de stratégies et de niveau
 de jeu que vous pouvez. Quand vous jouez, Soyez confiant car vous êtes maintenant équipé de nouvelles armes provenant de vos humbles

@@ -8,7 +8,7 @@ défaites. Ce que nous ignorons, c'est que notre cerveau est concentré sur la v
 les manières de gagner._
 
 _Ne vous-êtes vous pas demandé pourquoi lorsque vous êtes malade ou fatigué; votre performance n'est
-pas reflet de votre jeu? Ne pas être capable de penser sereinement en est la raison principale. 
+pas le reflet de votre jeu? Ne pas être capable de penser sereinement en est la raison principale. 
 Comment être capable de penser sereinement :_
 
   1. __Reposez-vous__

@@ -66,13 +66,13 @@ Pratiquer comme si vous étiez le plus mauvais des joueurs, vous donnera la sens
 leçon que vous pouvez apprendre d'un replay ou de vos exercices.
 Cela ne vous rendra pas fatigué car vous deviendrez intérréssé dans ce que vous faîtes.
 
-### 2.2 Exécutez comme si vous le meilleur ! ###
+### 2.2 Exécutez comme si vous êtiez le meilleur ! ###
 
 Dans la partie, vous devriez être confiant. Vous ne pouvez vous permettre d'avoir peur ou d'avoir des pensées négatives.
-De vos précédents entraînements, vous avez beaucoup appris et vous êtes maintenant confiant dans vos armes secrètes.
+De vos précédents entraînements, vous avez beaucoup appris et vous êtes maintenant confiant grâce à armes secrètes.
 
-Kobe Bryant, même s'il est ocnsidéré comme une superstar, s'entraîne beaucoup. Certains disent qu'il se "torture lui-même". 
-Puis, quand il joue, vous pouvez voir combien confiant il est et les gens le considèrent très sûr de lui.
+Kobe Bryant, même s'il est ocnsidéré comme une superstar, s'entraîne beaucoup. Certains disent qu'il se "torture à la tâche". 
+Puis, quand il joue, vous remarquez son assurance, les gens le considèrent très sûr de lui.
 
 _Quand vous pratiquez, soyez très pointilleux. Observez et analysez tout. Essayez d'acquérir autant de stratégies et de niveau
 de jeu que vous pouvez. Quand vous jouez, Soyez confiant car vous êtes maintenant équipé de nouvelles armes provenant de vos humbles
@@ -83,13 +83,13 @@ entraînements qui vous avantage sur votre adversaire_
 ## Chapitre 3. Posséder ces 5 qualités ##
 
 _Vous êtes-vous deja demandé quels sont les plus-values des joueurs top niveau sur vous? 
-Ce n'est pas seulement l'expérience et le travail dur. Vous pouvez jouer pendant 10 ans et
-ne pas être aussi bon qu'eux si vous ne vous focalisez pas sur les bonnes habiletés à developper.
+Ce n'est pas seulement l'expérience et la sueur. Vous pouvez jouer pendant 10 ans et
+ne pas être aussi bon qu'eux si vous ne vous focalisez pas sur les bonnes aptitudes à developper.
 Voici les choses à considérer si vous voulez jouer comme les Pros._
 
 ### 3.1 Calculs mentaux rapides ###
 
-Cette aptitude est très importante pour 3 choses : 
+Cette aptitude est très importante pour 3 raisons : 
 
   + Coût de Mana
 
@@ -97,7 +97,7 @@ Cette aptitude est très importante pour 3 choses :
 
   + Estimer les temps de rechargement
 
-Etre rapide en calcul vous donne beaucoup d'avantages et de sûreté. Savoir si votre réserve de mana
+Etre rapide en calcul mental vous donne beaucoup d'avantages et de sûreté. Savoir si votre réserve de mana
 sera assez grande pour éxécuter cette combinaison vous évitera des problèmes du genre : "Merde! Je suis 
 à cours de Mana !", puis mourrir.
 Assurez-vous d'être rapide dans vos calculs car un seul moment d'égarement peut causer la perte de la 
@@ -111,7 +111,7 @@ leurs sorts ne sont pas disponibles. Faire plus de calculs que vos opposants vou
 
 ### 3.2 Main rapide ###
 
-Cette aptitude est très importante pour 3 choses :
+Cette aptitude est très importante pour 3 raisons :
 
   + L'annulation de l'animation
 
@@ -124,7 +124,7 @@ prolongées. Vous devriez les annuler pour ne pas perdre de temps. L'annulation 
 dans l'harrass du héro. Vous pouvez ou avancer ou reculer au lieu d'attendre l'arrêt de l'animation. 
 Grâce à cela, vous pouvez plus harrass ou éviter plus de dégâts.
 Les combinaisons requièrent de la synchronisation et ne devraient pas être interrompues par des doigts lents.
-La micro est le terme utilisée pour définir plus d'unités ce qui demande aussi une main rapide.
+La micro est le terme utilisée pour définir la gestion de pluseurs unités ce qui demande aussi une main rapide.
 Vous pouvez chercher pour un petit icône de héro plus rapidement pour être capable de l'attaquer et ainsi ne pas le 
 laisser s'échapper juste parcequ'il n'était pas cliquable.
 
@@ -146,7 +146,7 @@ Les 4 étapes d'un plan réfléchi :
 
 ### 3.4 Vue rapide ###
 
-Cette aptitude est très importante pour 5 choses : 
+Cette aptitude est très importante pour 5 raisons : 
 
   + Conscience de la map
 
@@ -178,9 +178,9 @@ Cette aptitude est très importante pour 5 choses :
 
   + Contrer les attaques
 
-Dota est un jeu d'action/réaction. Vous voyez la situation, puis vous agissez. 
+Dota est un jeu d'action/réaction. Vous anlysez la situation, puis vous agissez. 
 Gagner ou perdre dépend grandement de combien de bonnes ou mauvaises décisions sont faites. Savoir d'une seul coup d'oeil quelles sont les 
-meilleures réactions et les éxécuter parfaitement fera de vous un joueur de bon niveau effroyable.
+meilleures réactions et les éxécuter parfaitement fera de vous un joueur de bon niveau.
 
  
 <div id="c4"></div>
@@ -192,7 +192,7 @@ meilleures réactions et les éxécuter parfaitement fera de vous un joueur de b
 ### 4.1 Regarder des replays de pro et imaginer que vous êtes l'un d'eux ###
 
 C'est une astuce qui vous permettre de vous améliorer rapidement. Au lieu d'avoir une pensée 
-telle que "Wow, qu'est-ce qu'il est bon !", pensez de cette façon : " Je suis le Shadow Fiend que je regarde. Je farm et j'harrass en même temps.
+telle que "Wow, qu'est-ce qu'il est bon !", pensez de cette façon : " Je suis le Shadow Fiend que je regarde. Je farm et j'harrass en même temps que lui.
 Il y a peut-être un gank pas loin, je ferais mieux de me cacher." etc.
 
 Le but est qu'il vous faut sentir que vous êtes le joueur qui joue ce héro car c'est le moyen le plus rapide que vous ayez de jouer comme lui.
@@ -200,8 +200,8 @@ Cela peut-être Yaphets, Yamateh, 2009 ou d'autres grands joueurs de Shadow Fien
 vous regardez le replay.
 
 J'ai fais cela beaucoup de fois et de part mon expérience, après avoir regarder des replays de bons supports ou gankers comme 820, NS et mon 
-préféré Vigoss, ma décision dans cet aspect du jeu (supporting) s'est beaucoup amélioré.
-Ce qui arrive est que leurs expériences de jeu deviennentt mienne. Lorsqu'ils échouent, je saurais quoi faire la prochaine fois. Lorsqu'ils réussissent,
+préféré Vigoss, ma décision dans cet aspect du jeu (supporting) s'est beaucoup améliorée.
+Ce qui arrive est que leurs expériences de jeu deviennent miennes. Lorsqu'ils échouent, je saurais quoi faire la prochaine fois. Lorsqu'ils réussissent,
 je réussis aussi donc je sais que ça marche. 
 Je n'ai pas à jouer contre des équipes connues car je l'ai déjà fais grâce à cette technique.
 
@@ -209,12 +209,12 @@ Je n'ai pas à jouer contre des équipes connues car je l'ai déjà fais grâce 
 
 Ne dîtes pas seulement "Ouais! J'ai gagné je m'en vais" ou "Mince! J'ai perdu". Vos victoires ou défaites devraient tout le temps être régardées.
 Si vous cherchez la perfection dans votre jeu vous ne devriez pas avoir la feignantise de vérifier les erreurs que vous avez faites et qui ont 
-besoin d'être corrigée. Cela peut passer par une simple erreur de lasthit ou par un gros problème qui a causé la défaite à votre équipe, vous devriez
+besoin d'être corrigées. Cela peut passer par une simple erreur de lasthit ou par un gros problème qui a causé la défaite de votre équipe, vous devriez
 être au courant des choses que vous ne faites pas bien pour être capable de les corriger.
 
 Dans les parties d'équipe, c'est un point très critique de regarder vos replays. A chaque partie ou presque, il y a un échec d'éxecution de combo.
-Quelquefois vous allez juste gagner car l'équipe adverse n'est pas encore assez expérimenté mais vous avez encore quelqu'un qui meurt. Oui ce n'est pas
-si facile de faire un balayage d'équipe 5-0 si vous jouez contre de bonnes équipes mais il y a un toujours un moyen.
+Quelquefois vous allez juste gagner car l'équipe adverse n'est pas encore assez expérimentée mais vous avez encore quelqu'un qui meurt. Oui ce n'est pas
+si facile de faire un balayage d'équipe avec un score 5-0 si vous jouez contre de bonnes équipes mais il y a un toujours un moyen.
 Il y a peut-être un besoin de configurer votre stratégie ou line-up.
 
 J'étais trop fainéant pour regarder mes replays avant mais quand j'ai commencé, j'ai découvert 1000 tonnes d'erreurs que je faisais. Ce n'est qu'alors
@@ -245,11 +245,11 @@ Vous allez perdre. Et alors? si vous n'êtes pas assez fort pour gérer les crit
 fera réaliser vos failles et les choses qui doivent être ajustées dans votre jeu. Vous serez aussi tenté de surpasser son niveau de jeu, si vous êtes assez optimiste
 (et vous avez besoin de l'être).
 
-Nous avons tous déjà perdu. J'ai même offert des parties gratuites pour que de bonnes équipes jouent contre nous. J'ai perdu de l'argent et j'en perd encore 
+Nous avons tous connu la défaîte. J'ai même offert des parties gratuites pour que de bonnes équipes jouent contre nous. J'ai perdu de l'argent et j'en perd encore 
 mais je les ai toujours invitées à jouer contre nous. 
-Les émotions ne sont pas joyeuses quand nous perdons mais ce qui arrive est que nous nous améliorons. Nous regardions les replays de parties jouées contre eux. 
+Les émotions ne sont pas à la joie quand nous perdons mais ce qui arrive est que nous nous améliorons. Nous regardions les replays de parties jouées contre eux. 
 Nous avons découvert leurs stratégies et nous en avons créer de meilleurs. 
-Le temps vînt où personne ne pût nous battre ici dans notre ville même l'équipe que nous avions payés pour jouer.
+Le temps vînt où personne ne pût nous battre ici dans notre ville même l'équipe que nous avions payée pour jouer.
 C'est comme un business. Investissement et travail dur d'abord, puis la réussite suivra.
 
 ### 4.5 Fermer les yeux et faire ceci ###
@@ -274,13 +274,13 @@ _Les joueurs de DotA qui réussissent possèdent cette chose en commun, ils ont 
 
 _J'ai joué avec plusieurs types de joueurs DotA, j'ai regardé plusieurs joueurs proffessionels DotA, 
 et j'ai observé comment et pourquoi ces joueurs gagnent ou perdent la plupart du temps.
-Certains joueurs vont dire qu'ils ont fait le maximum de ce qu'ils pouvaient mais ils echouent encore.
+Certains joueurs vont dire qu'ils ont fait le maximum de ce qu'ils pouvaient mais ils échouent encore.
 Certains joueurs ne pratiquent pas tant que cela mais ils ont plus d'utilité que ceux qui jouent presque
 tous les jours. 
 Certains joueurs se vantent de jouer 20 parties/jour et qu'il ont un niveau 50 gArena, mais après avoir joué
 avec eux, vous penseriez qu'ils jouent 20 parties de jeu de l'oie par jour. Le nombre de parties que
-vous faîtes par jouer peut aider à votre progression mais ce n'est pas une assurance, spécialement 
-si vous partez après le firstblood et compter cela comme une partie. 
+vous faîtes par jour peut aider à votre progression mais ce n'est pas une assurance, spécialement 
+si vous partez après le firstblood et comptez cela comme une partie. 
 Il y plusieurs trucs et astuces et guides DotA sur comment contrôller votre héro mais le plus important est
 votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être efficaces?_
 
@@ -298,16 +298,16 @@ votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être effic
     Si vous voulez jouer aggressif, posez des wards et vous saurez quand c'est un appât et quand cela ne l'est
     pas.
 
-    Avez-vous deja fait Arrow aveugle sur un héro essayant de s'enfuir? Pour en être capable, 
-    vous devez visualiser le mouvement de l'adversaire et le chemin de Arrow. Vous devez prendre aussi en compte 
-    l'animation de Mirana avant de lancer Arrow. Une bonne conceptualisation vous fera réussir Arrow.
+    Avez-vous deja fait Sacred Arrow aveugle sur un héro essayant de s'enfuir? Pour en être capable, 
+    vous devez visualiser le mouvement de l'adversaire et le chemin de Sacred Arrow. Vous devez prendre aussi en compte 
+    l'animation de Mirana avant de lancer Sacred Arrow. Une bonne conceptualisation vous fera réussir Sacred Arrow.
     Il n'y a pas que Mirana qui ait besoin de cela, il y a beaucoup de héros qui peuvent toucher des adversaires
     invisibles comme Lina, Shadow Fiend, Beastmaster, Queen of Pain, Death Prophet, etc.. Vous ne voulez pas qu'un 
-    héro s'échappe avec seulement 5 point de vie, n'est ce pas? Donc avoir un maphack dans votre tête qui se concrétise par une 
+    héro s'échappe avec seulement 5 point de vie, n'est ce pas? Donc ayez un maphack dans votre tête qui se concrétise par une 
     bonne conceptualisation.
 
     En jouant le rôle de Capitaine, vous avez besoin de cet aspect. Un capitaine devrait imaginer comment la partie
-    se termine. Il/Elle doit être orienté vers la fin dans chaque partie. Plusieurs questions sont à considérer.
+    se termine. Il/Elle doit être focalisé sur la finalité de la partie. Plusieurs questions sont à considérer.
     Est-ce que le jeu peut se terminer en 30 minutes grâce aux héros choisis? Que faire si l'adversaire devient puissant?
     Quels sont leurs contres? A quoi ressembleront les batailles? Comment voulez-vous que les ganks/gans se passent?
     Une bonne vision du jeu est importante si vous voulez devenir un joueur très efficace.
@@ -315,7 +315,7 @@ votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être effic
   2. __Anticiper les situations__
 
     C'est actuellement l'une des plus importantes caractéristiques d'un joueur DotA efficace. Avoir de bonnes prédictions 
-    vous permettra d'avoir de plus grande réussite dans les batailles et moins de morts. Prévoir le prochain mouvement de 
+    vous permettra d'avoir plus de réussite dans les batailles et moins de morts. Prévoir le prochain mouvement de 
     l'adversaire est très important dans la plupart des compétitions.
     Que ce soit aux échecs, basketball, ou la boxe, la prediction fait gagner les parties.
     Pourquoi? Car vous savez comment contrer l'action avant qu'elle n'arrive.
@@ -353,13 +353,13 @@ votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être effic
     Si vous perdez une bataille, pensez aux raisons de cette défaite et recommencez en évitant de refaire l'erreur. Un exemple serait de perdre une
     bataille car votre carry principal, Shadow Fiend, se fait écrasé en moins de 3 secondes.
     A la prochaine bataille, essayez d'appâter l'adversaire avec des héros qui ont plus de capacité à tanker et faîtes entré Shadow Fiend dans la bataille
-    après que les adversaires aient lancés leur sorts. Si vous n'avez pas de tanks, essayez de placer des observers wards sur des points ou vous n'avez pas
+    après que les adversaires aient lancés leur sorts. Si vous n'avez pas de tanks, essayez de placer Observers Wards sur des points ou vous n'avez pas
     la vision et engagez le combat en premier, ainsi vous pourrez tuer un adversaire ou deux sans user de capacités. La patience est tellement importante
-    dans ce jeu. Bourrer les batailles sans plan; vous êtes sûrs de vous faire ramener votre héro à la fontaine.
+    dans ce jeu. Bourrez les batailles sans plan; vous êtes sûrs de vous faire ramener votre héro à la fontaine.
 
-    Le gank a besoin de beaucoup de patience. Les joueurs ont tendance à dire "Ok je ne vais pas gank car il n'y a pas d'observer wards". Puis après 25 minutes,
+    Le gank a besoin de beaucoup de patience. Les joueurs ont tendance à dire "Ok je ne vais pas gank car il n'y a pas d'Observer Wards". Puis après 25 minutes,
     votre équipe perd à cause d'un Tinker sur-puissant. Ganker fait gagner l'early-game, vous donnant plus d'avantage pour le mid-game et late-game. Donc l'or 
-    passé à acheter des sentries wards ne sera pas gaspillé si vous finissez par une victoire. Après tout, les supports sont choisis pour avoir du contrôle de 
+    passé à acheter des Sentries Wards ne sera pas gaspillé si vous finissez par une victoire. Après tout, les supports sont choisis pour avoir du contrôle de 
     carte et de donner un avantage au carry de votre équipe. Les items chers ne sont pas obligatoire pour les héros de support puisqu'ils ont déjà des sorts 
     de grande utilité pour les ganks et batailles.
 
@@ -378,17 +378,17 @@ votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être effic
     Ce jeu est une bataille de cerveaux. La concentration est très importante dans ce jeu car votre tête doit être remplie de prédictions des plans adverses, de vos
     plans d'attaque, de vos plans d'évasion, et de votre prochain mouvement après une acton. Si vous commencez à paniquer, la principale chose à laquelle vous penserez
     est de fuir lorsque chassé; d'attaquer lorsque vous serez push. Un cerveau unilatéral est très prévisible pour vos adversaires. Ainsi vos actions deviennent proche
-    de l'inutilité. j'ai vu des joueurs se faisant chassé courrir droit vers la fontaine les rendant facile à être chassé par vos adversaires.
-    La plus part des joueurs calmes savent qu'ils peuvent utiliser le brouillard de guerre, les arbres, ou ils peuvent courrir vers leurs prochains équipiers, ou disable le stunner 
+    de l'inutilité. J'ai vu des joueurs se faisant chassé courrir droit vers la fontaine les rendant facile à être chassé par leurs adversaires.
+    La plupart des joueurs calmes savent qu'ils peuvent utiliser le brouillard de guerre, les arbres, ou ils peuvent courrir vers leurs prochains équipiers, ou disable le stunner 
     qui peuvent l'attraper, ou même tuer le chasseur. La survie a besoin de tranquilité. Paniquer vous fait faire ce qu'un enfant de 5 ans ferait lorsque vous vous faîtes chassé. 
-    Rester calme vous permets de penser et de prévoir si les adversaires s'approchent pour vous ganker. 
-    Mieux vaut prévoir que guérir. Se prévenir d'un gank est mieux que de survivre d'un gank. C'est bien d'afficher sur la carte si les renforts sont prêts à tuer vos gankers ou si vous
+    Rester calme vous permet de penser et de prévoir si les adversaires s'approchent pour vous ganker. 
+    Mieux vaut prévoir que guérir. Se prévenir d'un gank est mieux que de survivre d'un gank. Il est conseillé d'afficher sur la carte si les renforts sont prêts à tuer vos gankers ou si vous
     avez des sorts/objets vous permettant de survivre.
 
   5. __Soyez imprévisible__
 
     Les équipes professionelles entrant dans des tournois ont toujours un choix de héros ou une stratégie surprise pour vaincre leurs plus féroces adversaires. D'autres équipes vont regarder 
-    vos parties avant même que vous ne les ayez rencontrés pour être préparés à tout ce qu'ils ont vu de votre jeu.
+    vos parties avant même que vous ne les ayez rencontrés pour être préparées à tout ce qu'ils ont vu de votre jeu.
     Si vous faîtes la même chose, ils ont leurs contre-choix ou stratégies qui cibleront les faiblesses de votre plan. Presque toute chose dans DotA possède son contre et les bons joueurs 
     vont utiliser ces contres pour battre leurs adversaires. J'ai regardé une équipe locale éxecuter du très bon jeu. Il finissaient les parties en 30 minutes ou moins. Leur héro principal était Axe. 
     Puis les finales vînrent. La partie commença. Tic tac tic tac. Tour pour leurs adversaires de bannir... premier bannissement...Axe.. Après la partie, l'équipe que je regardais et admirais avait
@@ -396,9 +396,9 @@ votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être effic
     
     Les batailles et les ganks sont souvent étudiés par les bons joueurs juste après être éxécutés. 
     Donc, faire le même bon vieux style de gank et batailles vous donnent peu de chance de gagner car ces joueurs l'ont déjà expérimentés et savent comment le contrer. Par exemple, vous jouez Dire. 
-    Vous avez une trilane au bottom et de même niveau Radiant. Le Radiant a prévu que le Dire gank middle, ils ont donc placés une observer ward où vous passerez. Puis vient le moment du "Allons gank middle".
-    Vous passez sur leurs wards. Maintenant les supports Dire passent par le brouillard de guerre derrière-vous. Le héro middle vous bluff en farmant le camp de neutraux mais avant que vous ne puissiez
-    faire quoi que ce soit, ils vous ont tous attrapés dans un coin. C'est un contre basique de gank. Certains utilisent le sauvage de TP. Ne pensez pas que les adversaires n'apprenent pas, spécialement
+    Vous avez une trilane au bottom et de même niveau Radiant. Le Radiant a prévu que le Dire gank middle, ils ont donc placés Observer Ward où vous passerez. Puis vient le moment du "Allons gank middle".
+    Vous passez sur leurs Observers Wards. Maintenant les supports Dire passent par le brouillard de guerre derrière-vous. Le héro middle vous bluff en farmant le camp de neutraux mais avant que vous ne puissiez
+    faire quoi que ce soit, ils vous ont tous attrapés dans un coin. C'est un contre basique de gank. Certains utilisent le sauvage TP. Ne pensez pas que les adversaires n'apprenent pas, spécialement
     les bons joueurs. Vous devriez avoir plusieurs alternatives et choisir la meilleure pour chaque situation.
 
   6. __Gardez le contôle sur vos émotions__
@@ -407,7 +407,7 @@ votre attitude vis-à-vis du jeu. Alors, comment les joueurs peuvent être effic
     Si vous vous emportez dans vos émotions, votre concentration en sera grandement affectée. Etre enervé contre un adversaire vous rendra aggressif dans le mauvais sens du terme. Vous 
     serez tenté de gank celui-ci même s'il a du renfort. Vous serez tenté de le cibler même si son héro est Spirit Breaker avec 100.000 points de vie. Bouder un coéquipier et vous ne le sauverez pas 
     dans certaines conditions. Quand vous jouez une lane difficile et que vous vous énervez contre vous-même à cause de votre farm, vous serez tenté de rush le farming et de finir à 0-10 en 5 minutes. 
-    C'est une jeu de cerveaux, pas de coeurs. Vous devriez utiliser votre cerveau pour gagner plutôt que votre coeur pour vous complaindre quand vous perdez. Oui, ce n'est peut-être pas de votre faute si 
+    C'est un jeu de cerveaux, pas de coeurs. Vous devriez utiliser votre cerveau pour gagner plutôt que votre coeur pour vous complaindre quand vous perdez. Oui, ce n'est peut-être pas de votre faute si 
     vous perdez mais c'est un jeu d'équipe. Une défaite, bien que pénible, doit être acceptée. Vous pouvez choisir votre réponse dans moultes situations. Pas mal de joueurs ne peuvent contrôler leurs
     émotions. Perdre est comme un mécanisme automatique qui déclenche leurs colères. Ils ont un programme dans leur système : Si perdre alors activer colère.exe. Ne pas avoir ce que l'on veut sont leurs bases.
     Vous pouvez choisir de ne pas être colérique ou fâché dans n'importe quelle situation. Ca s'apelle être proactif.
@@ -433,7 +433,7 @@ défaites. Ce que nous ignorons, c'est que notre cerveau est concentré sur la v
 les manières de gagner._
 
 _Ne vous-êtes vous pas demandé pourquoi lorsque vous êtes malade ou fatigué; votre performance n'est
-pas reflet de votre jeu? Ne pas être capable de penser sereinement en est la raison principale. 
+pas le reflet de votre jeu? Ne pas être capable de penser sereinement en est la raison principale. 
 Comment être capable de penser sereinement :_
 
   1. __Reposez-vous__
@@ -670,7 +670,7 @@ caractère de personnages d'Anime qui pourraient vous inspirer dans votre jeu Do
   5. __Invulnérable__
 
     Peu importe ce qui arrive, les protaginistes ne mourront pas, ils ne seront que blesser s'ils perdent fâce à un opposant trop puissant 
-    mais ils ne mourront pas. A la fin de la série ils seront les gagnants. C'est chose évidente dans les Anime mais ca m'a fait beaucoup d'effets.
+    mais ils ne mourront pas. A la fin de la série ils seront les gagnants. C'est chose évidente dans les Anime mais ca m'a fait beaucoup réfléchir.
     Cela m'a inspiré à ne jamais abandonner. Peu importe le nombre de fois ou j'étais dans une mauvaise passe, c'est le fait d'être le meilleur
     si je travail dur pour cela.
 
